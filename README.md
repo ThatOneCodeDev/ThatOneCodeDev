@@ -3,7 +3,7 @@
 - - - -
 ### My specialties
 
-![WRT54G](https://github.com/Jerhynh/Jerhynh/blob/main/Images/WRT54G.png)
+![WRT54G](https://github.com/ThatOneCodeDev/ThatOneCodeDev/blob/main/Images/WRT54G.png)
 
 Stuff I have experience with:
 - Writing secure networked applications utilizing TCP/IP.
