@@ -34,4 +34,4 @@ Stuff I have experience with:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/eaef8552d8b082ffafe2bfc8a5023d47da904aac/topics/azure/azure.png"></code>
 
 ### How to contact me
-If you wish to contact me for any reason, you can do so by adding me on discord via ThatOneCodeDev.
+If you wish to contact me for any reason, you can do so by adding me on discord via **ThatOneCodeDev**.
