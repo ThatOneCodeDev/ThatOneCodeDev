@@ -18,7 +18,7 @@
 
 ### How to Connect
 
-📫 Want to discuss a project, share ideas, or simply chat about technology? Feel free to reach out to me via Discord at **ThatOneCodeDev** or email me at [TOCD@sentinelsec.studio](mailto:TOCD@sentinelsec.studio). I'm always eager to connect with fellow enthusiasts and professionals in the field.
+📫 Want to discuss a project, share ideas, or simply chat about technology? Feel free to reach out to me via Discord at **ThatOneCodeDev** or email me at [TOCD@sentinelsec.studio](mailto:reaper@sentinelsec.studio). I'm always eager to connect with fellow enthusiasts and professionals in the field.
 
 ### Note
 
