@@ -1,6 +1,6 @@
 ### About Me
 
-👋 Hello! I'm ThatOneCodeDev, a self-taught software developer and sysadmin with a passion for technology and a drive to build a brighter future for myself. Currently serving in the US military, I bring a unique blend of disciplined military expertise and self-directed learning to the world of software development and system administration.
+👋 Hello! I'm ThatOneCodeDev (AKA. Reaper), a self-taught software developer and sysadmin with a passion for technology and a drive to build a brighter future for myself. Currently serving in the US military, I bring a unique blend of disciplined military expertise and self-directed learning to the world of software development and system administration.
 
 ![WRT54G](https://github.com/ThatOneCodeDev/ThatOneCodeDev/blob/main/Images/WRT54G.png)
 
