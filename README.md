@@ -1,6 +1,6 @@
 ### About Me
 
-I'm Reaper.
+I'm Jerhyn.
 I have a background in electromagnetic spectrum operations and secure communications, I specialize in developing infrastructure and software that stay secure, reliable, and responsive when the situation demands more.
 
 ![WRT54G](https://github.com/ThatOneCodeDev/ThatOneCodeDev/blob/main/Images/WRT54G.png)
@@ -31,7 +31,7 @@ Whether I’m writing software or standing up infrastructure, I engineer with pu
 ### Let's get in touch!
 
 - **Discord:** `ThatOneCodeDev`  
-- **Email:** [reaper@sentinelsec.studio](mailto:reaper@sentinelsec.studio)  
+- **Email:** [jerhynh@sentinelsec.studio](mailto:jerhynh@sentinelsec.studio)  
 
 ---
 
