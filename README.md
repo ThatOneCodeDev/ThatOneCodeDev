@@ -31,7 +31,7 @@ Whether I’m writing software or standing up infrastructure, I engineer with pu
 ### Let's get in touch!
 - SentinelSec Studios DSO-GIT: [Click Here :) ](https://devsecops.dsonet.sentinelsec.studio)
 - **Discord:** `ThatOneCodeDev`  
-- **Email:** [jerhynh@sentinelsec.studio](mailto:jerhynh@sentinelsec.studio)  
+- **Email:** [hello@sentinelsec.studio](mailto:hello@sentinelsec.studio)  
 
 ---
 
