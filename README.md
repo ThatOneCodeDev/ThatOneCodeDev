@@ -1,6 +1,6 @@
 ### About Me
 
-I'm Jerhyn.
+I'm Mira.
 I have a background in electromagnetic spectrum operations and secure communications, As a developer I am self taught and specialize in developing infrastructure and software that stay secure, reliable, and responsive when the situation demands more.
 
 ![WRT54G](https://github.com/ThatOneCodeDev/ThatOneCodeDev/blob/main/Images/WRT54G.png)
@@ -30,7 +30,7 @@ Whether I’m writing software or standing up infrastructure, I engineer with pu
 
 ### Let's get in touch!
 - SentinelSec Studios DSO-GIT: [Click Here :) ](https://devsecops.dsonet.sentinelsec.studio)
-- **Discord:** `ThatOneCodeDev`  
+- **Discord:** `itsmira02`  
 - **Email:** [hello@sentinelsec.studio](mailto:hello@sentinelsec.studio)  
 
 ---
